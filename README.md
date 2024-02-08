@@ -29,11 +29,10 @@ To set up and run the Dynamic Blog App locally, follow these steps:
 
    ```bash
    # For Backend
-   cd backend
    npm install
 
    # For Frontend
-   cd frontend
+   cd client
    npm install
    ```
 
